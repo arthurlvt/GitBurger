@@ -1,8 +1,9 @@
+# Bienvenue chez GitBurger!
+> Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
+
 > [!IMPORTANT]
 > Ce dépôt Github est un devoir afin de s'entraîner à utiliser les commandes git
 
-# Bienvenue chez GitBurger!
-> Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
 
 ## Ingrédients Disponibles
 - 🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
